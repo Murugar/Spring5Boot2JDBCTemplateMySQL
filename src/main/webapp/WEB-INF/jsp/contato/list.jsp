@@ -66,11 +66,11 @@
 				<thead>
 					<tr>
 						<!-- <th>#</th> -->
-						<th>Nome</th>
+						<th>Name</th>
 						<th>E-mail</th>
-						<th>Telefone</th>
-						<th>Endereço</th>
-						<th colspan="1">Opções</th>
+						<th>Telephone</th>
+						<th>Address</th>
+						<th colspan="1">Operations</th>
 					</tr>
 				</thead>
 			</c:when>
@@ -96,9 +96,9 @@
 <div id="buttons">
 	<a id="button" class="btn btn-default"
 		href="${pageContext.request.contextPath }/new"><span
-		class="fa fa-plus"></span> Novo </a><a id="button" class="btn btn-default"
+		class="fa fa-plus"></span> New </a><a id="button" class="btn btn-default"
 		href="${pageContext.request.contextPath }/advanced-search"><span
-		class="fa fa-search"></span> Busca Avançada </a>
+		class="fa fa-search"></span> Advanced Search </a>
 </div>
 <script>
 	jQuery(function($) {

@@ -17,7 +17,7 @@
 						<th>E-mail</th>
 						<th>Telephone/th>
 						<th>Address</th>
-						<th colspan="1">Opções</th>
+						<th colspan="1">Operations</th>
 					</tr>
 				</thead>
 			</c:when>
@@ -41,7 +41,7 @@
 	</table>
 </div>
 <div id="buttons">
-	<a id="button" class="btn btn-default" href="javascript:history.back()">Voltar&ensp;<span
+	<a id="button" class="btn btn-default" href="javascript:history.back()">Come Back&ensp;<span
 		class="fa fa-undo"></span></a><a id="button" class="btn btn-default"
 		href="${pageContext.request.contextPath }/new">New&ensp;<span
 		class="fa fa-plus"></span></a><a id="button" class="btn btn-default"

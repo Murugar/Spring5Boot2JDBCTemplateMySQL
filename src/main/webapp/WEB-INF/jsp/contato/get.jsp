@@ -6,8 +6,8 @@
 	<table class="table table-striped table-bordered table-hover">
 		<thead>
 			<tr>
-				<th>Campo</th>
-				<th>Valor</th>
+				<th>Key</th>
+				<th>Value</th>
 			</tr>
 		</thead>
 		<tbody>
